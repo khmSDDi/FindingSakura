@@ -1,0 +1,4 @@
+# These are the python packages required to run Finding Sakura
+#
+geemap == 0.35.3
+voila == 0.5.8
