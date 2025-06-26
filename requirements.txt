@@ -2,3 +2,4 @@
 #
 geemap == 0.35.3
 voila == 0.5.8
+pandas
